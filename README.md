@@ -1,4 +1,10 @@
 # Conversation Information Extraction using Groq API
+## 📓 Colab Notebook
+
+You can view and run the full implementation in Google Colab:
+
+[Open Colab Notebook](https://colab.research.google.com/drive/1_XdRWSFqEl5LoOJS-8krR2cJh4Z9N_PV?usp=sharing)
+
 
 ## Project Overview
 This project focuses on **extracting structured information** from user conversations using the **Groq API**, which is compatible with OpenAI’s SDK. The goal is to parse free-form chat messages and extract key user details in a **JSON format**, ensuring data consistency and validation.
